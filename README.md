@@ -1,6 +1,12 @@
-# He Gu
+# He Gu · naze
 
-I am working on cognition infrastructure for long-horizon human-AI collaboration — and on the broader question it sits inside: how a single person stays the center of a multi-AI ecosystem over years, without being flattened by their own tools.
+I build **cognition infrastructure** — systems that keep one person at the center of a multi-AI ecosystem over years, without being flattened by their own tools. I sign my work **naze**.
+
+**The bet, in one line:** as AI models commoditize, the moat moves to **memory** (a person's or an org's provenance-tracked cognition) and **governance** (auditable, judgment-preserving autonomy) — an AI that is *yours*, not just general.
+
+**Start here →** [enterprise-ai-os-architecture](https://github.com/hegu-1/enterprise-ai-os-architecture) — the thesis end-to-end (bilingual) · [personal-memory-vault-starter](https://github.com/hegu-1/personal-memory-vault-starter) — clone & run it yourself in minutes
+
+The broader question all of this sits inside: how a single person stays sovereign of their own cognitive substrate as the ecosystem of tools around them grows.
 
 The current thesis:
 
@@ -19,7 +25,8 @@ The current thesis:
 - [judgment-aware-agent](https://github.com/hegu-1/judgment-aware-agent) — Distinguish current judgment from stale opinion in persistent memory.
 - [drift-aware-agent](https://github.com/hegu-1/drift-aware-agent) — Execution overrun, abstraction drift, premature closure surfaced.
 
-### Protocols
+### Architecture & Protocols
+- [enterprise-ai-os-architecture](https://github.com/hegu-1/enterprise-ai-os-architecture) — The full thesis: a 7-layer AI OS that's the *same architecture* at personal / startup / enterprise scale; five layers commoditize, the moat is memory + governance. Bilingual.
 - [coevolution-kernel](https://github.com/hegu-1/coevolution-kernel) — Position paper on the missing kernel layer between human judgment and self-evolving agents.
 - [calibration-loop-protocol](https://github.com/hegu-1/calibration-loop-protocol) — Provenance-enforced calibration: external feedback → tagged source → schema delta → human ratifies → audit trail.
 - [schema-coexistence-spec](https://github.com/hegu-1/schema-coexistence-spec) — Core / edge schema separation: stable judgment in core, evolving capability in edge.
