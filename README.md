@@ -48,3 +48,7 @@ I'm especially interested in:
 - the boundary between a person's cognitive sovereignty and the collaborative AI environment they navigate within
 
 If any of these resonate with work you are doing — at the agent level, the substrate level, or the framing level — open an issue in one of the repos, or reach out via [@liaoliaowuji](https://x.com/liaoliaowuji).
+
+---
+
+**Open to** — roles & collaborations in applied AI / AI agents / solutions architecture, and conversations with anyone building at the agent, substrate, or framing level. The fastest way to know how I think is to read one of the repos above; then reach out via [@liaoliaowuji](https://x.com/liaoliaowuji).
